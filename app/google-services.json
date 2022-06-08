@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "102116688795",
+    "project_id": "fir-videotest-c29b8",
+    "storage_bucket": "fir-videotest-c29b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102116688795:android:e74680e60a305d3f2cd73e",
+        "android_client_info": {
+          "package_name": "hcmute.spkt.trandangtam18110359.firebasevideotest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102116688795-44hoseap40spkajm93mbbfijj0pu673s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0USjFjUXNQW4F5jFj7uEqpZT_gzPP8WA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102116688795-44hoseap40spkajm93mbbfijj0pu673s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
